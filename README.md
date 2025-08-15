@@ -3,7 +3,7 @@
 #### MCKV INSTITUTE OF ENGINEERING
 #### Computer Science of Engineering, 2020-24
 ## Team Members : 
-#### Sukanta Roy, Ramit Kumar Mandal, Mainak Maity, Yogita Sarawagi and Soham Kundu.
+#### Sukanta Roy, Ramit Kumar Mandal, Mainak Maity, Yogita Sarawagi, Mayank Manas and Soham Kundu.
 ### Name of the Project: 
 # Deparment Management on Web
 ### App Name: 
